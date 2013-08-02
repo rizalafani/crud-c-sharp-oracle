@@ -1,0 +1,7 @@
+C:\Users\FaiQ\Documents\SharpDevelop Projects\Ora_Connection\Ora_Connection\bin\Debug\Ora_Connection.exe
+C:\Users\FaiQ\Documents\SharpDevelop Projects\Ora_Connection\Ora_Connection\bin\Debug\Ora_Connection.pdb
+C:\Users\FaiQ\Documents\SharpDevelop Projects\Ora_Connection\Ora_Connection\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\FaiQ\Documents\SharpDevelop Projects\Ora_Connection\Ora_Connection\obj\Debug\Ora_Connection.MainForm.resources
+C:\Users\FaiQ\Documents\SharpDevelop Projects\Ora_Connection\Ora_Connection\obj\Debug\Ora_Connection.csproj.GenerateResource.Cache
+C:\Users\FaiQ\Documents\SharpDevelop Projects\Ora_Connection\Ora_Connection\obj\Debug\Ora_Connection.exe
+C:\Users\FaiQ\Documents\SharpDevelop Projects\Ora_Connection\Ora_Connection\obj\Debug\Ora_Connection.pdb
